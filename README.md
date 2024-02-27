@@ -4,8 +4,10 @@ This repository contains an Apache Spark application for real-time transaction v
 
 ## Requirements
 - Docker
+- Apache Kafka
 - Apache Spark
 - AWS Cloud
+- Tableau (or any other cloud BI tool)
 
 ## System Design
 ![System Design.png](System%20Design.png)
