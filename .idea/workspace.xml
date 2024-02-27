@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec2cbaf3-9dda-4bbb-bc0f-b6e271407951" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SmartTravel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobs/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="ec2cbaf3-9dda-4bbb-bc0f-b6e271407951" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708376883898</updated>
       <workItem from="1708376885717" duration="3776000" />
-      <workItem from="1708381601473" duration="56954000" />
+      <workItem from="1708381601473" duration="57305000" />
     </task>
     <servers />
   </component>
