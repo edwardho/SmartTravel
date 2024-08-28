@@ -1,6 +1,6 @@
 # Vehicle Data Streaming Pipeline through Kafka, Apache Spark, S3, Glue, Athena, Redshift, and Tabeleau
 
-This repository contains an Apache Spark application for real-time transaction vehicle data analytics built using Docker Compose to orchestrate the infrastructure components. The application processes real time vehicle travel data from Kafka using Kafka KRaft, sends them to Apache Spark for processing, which get streamed to the AWS Cloud. The application uses Kafka, Apache Spark streaming into AWS S3 buckets to be crawled by AWS Glue to produce a Data Catalog utilized by Amazon Athena and Redshift. From Redshift, the data can be ported to Tableau or other data analytics platforms like Power BI or Looker Studio.
+This repository contains an Apache Spark application for real-time vehicle data analytics built using Docker Compose to orchestrate the infrastructure components. The application processes real time vehicle travel data from Kafka using Kafka KRaft, sends them to Apache Spark for processing, which get streamed to the AWS Cloud. The application uses Kafka, Apache Spark streaming into AWS S3 buckets to be crawled by AWS Glue to produce a Data Catalog utilized by Amazon Athena and Redshift. From Redshift, the data can be ported to Tableau or other data analytics platforms like Power BI or Looker Studio.
 
 ## Requirements
 - Docker
